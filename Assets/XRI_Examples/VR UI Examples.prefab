@@ -890,7 +890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8999991931977874053}
   m_Layer: 0
-  m_Name: 2D UI Examples
+  m_Name: VR UI Examples
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
